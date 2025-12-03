@@ -1,3 +1,16 @@
+<table style="width:100%">
+  <tr>
+    <th>
+      <img src="https://github.com/tjatoba/tjatoba/blob/main/images/banner.png" alt="banner_github" style="max-width:100%;">
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nome-exemplo&layout=compact&theme=blue-green" style="max-width:100%;"><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=tjatoba&amp;theme=blue-green" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <h3 align="center">

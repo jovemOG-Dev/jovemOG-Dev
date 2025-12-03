@@ -26,7 +26,7 @@
   <p align="left">
     📍 <b>Location:</b> [City, Country]<br>
     🎓 <b>Education:</b> Studying [Course Name] at [University Name]<br>
-    🌱 <b>Focus:</b> Improving my command of Full Stack technologies and Software Architecture.
+    🎯 <b>Focus:</b> Improving my command of Full Stack technologies and Software Architecture.
   </p>
   
   ---

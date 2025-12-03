@@ -1,7 +1,7 @@
 <table style="width:100%">
   <tr>
     <th>
-      <img align="center" src="https://github.com/jovemOG-Dev/gabriel-silvag/blob/main/images/banner.png" alt="banner_github" style="max-width:100%;">
+      <img align="center" src="https://github.com/jovemOG-Dev/gabriel-silvag/blob/main/assets/banner.png" alt="banner_github" style="max-width:100%;">
     </th>
   </tr>
   <tr>

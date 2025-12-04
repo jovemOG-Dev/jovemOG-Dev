@@ -1,16 +1,3 @@
-<table style="width:100%">
-  <tr>
-    <th>
-      <img align="center" src="https://github.com/jovemOG-Dev/gabriel-silvag/blob/main/assets/banner.jpg" alt="banner_github" style="max-width:100%;">
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nome-exemplo&layout=compact&theme=blue-green" style="max-width:100%;"><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=tjatoba&amp;theme=blue-green" style="max-width:100%;">
-    </td>
-  </tr>
-</table>
-
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <h3 align="center">
@@ -31,11 +18,9 @@
   
   ---
   
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="stats-card" />
-    <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
-  </p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovemOG-Dev&show_icons=true&theme=radical)](https://github.com/jovemOG-Dev/)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovemOG-Dev)](https://github.com/jovemOG-Dev?tab=repositories)
 
   ---
 

@@ -65,7 +65,7 @@
 </p>
 </details>
 
-<br>
+
 <details>
 <summary>🛠️ Databases, Styling & Tools</summary>
 <br>

@@ -1,6 +1,6 @@
 ![OG banner](./assets/banner.jpg)
 
-<p align="center" style="margin-top: -10px">
+<p align="center" style="margin-top: -2000px">
 <a href="https://www.linkedin.com/in/gabriel-silva-gomes">
 <img src ="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
 </a>

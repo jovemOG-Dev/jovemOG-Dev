@@ -45,7 +45,7 @@
   ## ⚙️ Tech Stack
 
 <details>
-<summary style="margin-bottom: 10px">💻 Languages & Frameworks</summary>
+<summary style="margin-bottom: 20px">💻 Languages & Frameworks</summary>
 
 ![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0D76A8)
@@ -57,7 +57,7 @@
 
 
 <details>
-<summary style="margin-bottom: 10px">🛠️ Databases, Styling & Tools</summary>
+<summary style="margin-bottom: 20px">🛠️ Databases, Styling & Tools</summary>
 
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)

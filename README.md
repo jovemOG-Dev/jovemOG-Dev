@@ -1,14 +1,16 @@
 ![OG banner](./assets/banner.jpg)
 
-<p align="center" style="margin-top: -2000px">
+<p align="center" style="margin-top: -10px">
 <a href="https://www.linkedin.com/in/gabriel-silva-gomes">
 <img src ="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
 </a>
 </p>
 
-  Welcome! <img src="./assets/Hi.gif" width="20" heigth="17" style="transform: scaleX(-1);"> 
+<p style="margin-top: -10px">
+  Welcome! <img src="./assets/Hi.gif" width="20" heigth="17"> 
 
   I’m Gabriel, an enthusiastic aspiring Full Stack Developer and creative coder, currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end and back-end development to deliver impactful solutions.
+</p>
 
 <div align="left">
 
@@ -43,24 +45,41 @@
   ## ⚙️ Tech Stack
 
 <details>
-<summary style="margin-bottom: 20px">💻 Languages & Frameworks</summary>
+<summary>💻 Languages & Frameworks</summary>
+<br>
 
-![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0D76A8" alt="HTML5 Badge">
+  </a><a href="https://www.w3.org/css/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0D76A8" alt="CSS3 Badge">
+  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0D76A8" alt="JavaScript Badge">
+  </a><a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0D76A8" alt="TypeScript Badge">
+  </a><a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31" alt="Angular Badge">
+  </a><a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00" alt="Java Badge">
+  </a>
+</p>
 </details>
 
-
+<br>
 <details>
-<summary style="margin-bottom: 20px">🛠️ Databases, Styling & Tools</summary>
+<summary>🛠️ Databases, Styling & Tools</summary>
+<br>
 
-
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" alt="MySQL Badge">
+  </a><a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB Badge">
+  </a><a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" alt="Git Badge">
+  </a><a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub Badge">
+  </a>
+</p>
 </details>
 </div>

@@ -62,10 +62,12 @@
     <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0D76A8" alt="JavaScript Badge">
   </a><a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0D76A8" alt="TypeScript Badge">
-  </a><a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31" alt="Angular Badge">
   </a><a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00" alt="Java Badge">
+  </a>
+
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31" alt="Angular Badge">
   </a>
 </p>
 </details>
@@ -76,14 +78,16 @@
 <br>
 
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" alt="Git Badge">
+  </a><a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub Badge">
+  </a>
+ 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" alt="MySQL Badge">
   </a><a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB Badge">
-  </a><a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" alt="Git Badge">
-  </a><a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub Badge">
   </a>
 </p>
 </details>

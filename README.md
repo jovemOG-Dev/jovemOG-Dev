@@ -44,7 +44,7 @@
 </a>
 
 <div align="center">
-  <img src=./assets/jake.png style="width:22%">
+  <img src="./assets/jake.png" style="width:22%">
 </div>
 
   ## ⚙️ Tech Stack
@@ -65,8 +65,6 @@
   </a><a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00" alt="Java Badge">
   </a>
-
----
 
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31" alt="Angular Badge">

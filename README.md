@@ -66,6 +66,7 @@
     <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00" alt="Java Badge">
   </a>
 
+  <br>
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31" alt="Angular Badge">
   </a>

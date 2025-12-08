@@ -43,7 +43,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
 </a>
 
-<img src=./assets/jake.png style="width:20%">
+<div align="right">
+  <img src=./assets/jake.png style="width:20%">
+</div>
 
 <br>
 

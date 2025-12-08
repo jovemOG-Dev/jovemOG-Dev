@@ -40,10 +40,10 @@
 </a>
 
 <a href="https://github.com/jovemOG-Dev?tab=repositories">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook"/>
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook"/>
 </a>
 
-<img src=./assets/jake.png style="width:28%">
+<img src=./assets/jake.png style="width:20%">
 
 <br>
 

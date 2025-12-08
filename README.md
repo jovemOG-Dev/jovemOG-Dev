@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://github.com/jovemOG-Dev/BR-Turismo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin?username=jovemOG-Dev&repo=BR-Turismo&title_color=FAEC1F&text_color=c9cacc&icon_color=FAEC1F&bg_color=454509&border_color=FFB000&border_radius=15"/>
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin?username=jovemOG-Dev&repo=BR-Turismo&title_color=FAEC1F&text_color=c9cacc&icon_color=FAEC1F&bg_color=454509&border_color=FFB000&border_radius=15"/>
 </a>
 
 
@@ -43,7 +43,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
 </a>
 
-<div align="center">
+<div align="left">
   <img src="./assets/jake.png" style="width:22%">
 </div>
 

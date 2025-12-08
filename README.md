@@ -43,7 +43,7 @@
         <img src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
       </a>
       <br>
-      <img src="./assets/jake.png" style="width:300" alt="Imagem Decorativa" />
+      <img src="./assets/jake.png" style="width:200" alt="Imagem Decorativa" />
     </td>
     <td valign="top" style="padding: 5px;">
       <a href="https://github.com/jovemOG-Dev?tab=repositories">

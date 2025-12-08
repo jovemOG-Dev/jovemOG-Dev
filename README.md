@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<h3>Welcome! Thanks for stopping by <img src="./assets/Hi.gif" width="23" heigth="17"></h3>
+<h3>Welcome! <img src="./assets/Hi2.gif" width="35"></h3>
 
 <p>
   I’m Gabriel, an enthusiastic aspiring Full Stack Developer and creative coder, currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end and back-end development to deliver impactful solutions.

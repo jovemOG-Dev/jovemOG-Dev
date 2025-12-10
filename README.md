@@ -84,13 +84,8 @@
 
 [![Top Languages Light Theme](https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FFFFFF&title_color=FF00AA&text_color=24292F&border_radius=15&border_color=9B30FF&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only)](https://github.com/jovemOG-Dev?tab=repositories)
 
-<a href="https://github.com/jovemOG-Dev/">
-  <img src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400&theme=dark#gh-dark-mode-only" alt="GitHub Stats Dark Theme"/>
-</a>
-<br>
-<a href="https://github.com/jovemOG-Dev/">
-  <img src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=F0F0F0&title_color=9B30FF&text_color=24292F&icon_color=FF00AA&border_radius=15&border_color=9B30FF&card_width=400&theme=default#gh-light-mode-only" alt="GitHub Stats Light Theme"/>
-</a>
+[![GitHub Stats Dark Theme](https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400&theme=dark#gh-dark-mode-only)](https://github.com/jovemOG-Dev/)
+[![GitHub Stats Light Theme](https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=F0F0F0&title_color=9B30FF&text_color=24292F&icon_color=FF00AA&border_radius=15&border_color=9B30FF&card_width=400&theme=default#gh-light-mode-only)](https://github.com/jovemOG-Dev/)
 
 <div align="center">
   <img src="./assets/jake.png" style="width:22%">

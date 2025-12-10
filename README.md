@@ -15,6 +15,7 @@
   I’m Gabriel, an enthusiastic aspiring Full Stack Developer and creative coder, currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end and back-end development to deliver impactful solutions.
 </p>
 
+<div align="left">
   <p>
     📍 <b>Location:</b> São Paulo, Brasil<br>
     🎓 <b>Education:</b> System Development Student at Senac<br>
@@ -79,14 +80,31 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!--Top langs card (Dark/light)-->
-[![Top Languages Dark Theme](https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook&theme=dark#gh-dark-mode-only)](https://github.com/jovemOG-Dev?tab=repositories)
+<picture>
+  <source
+    srcset="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FFFFFF&title_color=FF00AA&text_color=24292F&border_radius=15&border_color=9B30FF&hide=Jupyter%20Notebook&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FFFFFF&title_color=FF00AA&text_color=24292F&border_radius=15&border_color=9B30FF&hide=Jupyter%20Notebook&theme=default" alt="Top Languages Card" />
+</picture>
 
-[![Top Languages Light Theme](https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FFFFFF&title_color=FF00AA&text_color=24292F&border_radius=15&border_color=9B30FF&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only)](https://github.com/jovemOG-Dev?tab=repositories)
-
-[![GitHub Stats Dark Theme](https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400&theme=dark#gh-dark-mode-only)](https://github.com/jovemOG-Dev/)
-[![GitHub Stats Light Theme](https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=F0F0F0&title_color=9B30FF&text_color=24292F&icon_color=FF00AA&border_radius=15&border_color=9B30FF&card_width=400&theme=default#gh-light-mode-only)](https://github.com/jovemOG-Dev/)
+<picture>
+  <source
+    srcset="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=F0F0F0&title_color=9B30FF&text_color=24292F&icon_color=FF00AA&border_radius=15&border_color=9B30FF&card_width=400&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=F0F0F0&title_color=9B30FF&text_color=24292F&icon_color=FF00AA&border_radius=15&border_color=9B30FF&card_width=400&theme=default" alt="GitHub Stats Card" />
+</picture>
 
 <div align="center">
   <img src="./assets/jake.png" style="width:22%">
+</div>
 </div>

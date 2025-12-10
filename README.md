@@ -80,12 +80,22 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<!--Top langs card (Dark/light)-->
 <a href="https://github.com/jovemOG-Dev?tab=repositories">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook"/>
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook&theme=dark#gh-dark-mode-only" alt="stats card dark"/>
+</a>
+
+<a href="https://github.com/jovemOG-Dev?tab=repositories">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FFFFFF&title_color=FF00AA&text_color=24292F&border_radius=15&border_color=9B30FF&hide=Jupyter%20Notebook&theme=default#gh-light-mode-only" alt="stats card light"/>
+</a>
+
+<!--Stats card (Dark/light)-->
+<a href="https://github.com/jovemOG-Dev/">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400&theme=dark#gh-dark-mode-only" alt="stats card dark"/>
 </a>
 
 <a href="https://github.com/jovemOG-Dev/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=F0F0F0&title_color=9B30FF&text_color=24292F&icon_color=FF00AA&border_radius=15&border_color=9B30FF&card_width=400&theme=default#gh-light-mode-only" alt="stats card light"/>
 </a>
 
 <div align="center">

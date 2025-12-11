@@ -1,4 +1,11 @@
-![OG banner](./assets/banner3.png)
+<div align="center">
+  <video src="https://zgtzou1kedgrli0b.public.blob.vercel-storage.com/banner.mp4" 
+         width="100%" 
+         muted 
+         autoplay 
+         loop>
+  </video>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">

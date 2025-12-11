@@ -1,10 +1,13 @@
 <div align="center">
-  <video src="https://zgtzou1kedgrli0b.public.blob.vercel-storage.com/banner.mp4"
-        autoplay
-        loop
-        muted
-        playsinline
-        style="width:100%; max-width:900px; border-radius:8px;">
+  <video src="https://zgtzou1kedgrli0b.public.blob.vercel-storage.com/banner.mp4" 
+         autoplay 
+         loop 
+         muted 
+         playsinline 
+         width="100%" 
+         height="auto" 
+         style="max-width: 1000px; margin-bottom: 20px;">
+    Seu navegador não suporta a tag de vídeo.
   </video>
 </div>
 

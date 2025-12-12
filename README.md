@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=jovemOG-Dev&label=Views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="GitHub Profile Views"/>
   <a href="mailto:gabriel.silvagomes2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
   </a>
@@ -112,3 +113,4 @@
   <img src="./assets/jake.png" style="width:22%">
 </div>
 </div>
+

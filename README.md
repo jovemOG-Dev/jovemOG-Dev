@@ -50,7 +50,7 @@
 
 
 <details>
-<summary>🛠️ Databases, Styling & Tools</summary>
+<summary>🛠️ Databases & Tools</summary>
 <br>
 
 <p align="left">
@@ -113,5 +113,6 @@
   <img src="./assets/jake.png" style="width:22%">
 </div>
 </div>
+
 
 

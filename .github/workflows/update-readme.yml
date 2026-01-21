@@ -16,6 +16,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+            persist-credentials: true  # garante que o push use o token do workflow
 
       - uses: actions/setup-node@v4
         with:

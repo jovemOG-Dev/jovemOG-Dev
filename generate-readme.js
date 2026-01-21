@@ -10,7 +10,7 @@ const now = new Date(
   })
 );
 
-const hour = 14;
+const hour = now.getHours();
 
 /**
  * Períodos:

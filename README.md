@@ -1,4 +1,4 @@
-![OG banner](./assets/banner-afternoon.gif)
+![OG banner](./assets/banner-day.gif)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">

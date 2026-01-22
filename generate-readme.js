@@ -10,9 +10,11 @@ const now = new Date(
   })
 );
 
+const hour = now.getHours();
 const minute = now.getMinutes();
 
-const slot = minute % 3;
+const totalMinutes = hour * 60 + minute;
+const slot = Math.floor(totalMinutes / 5) % 3;
 
 /**
  * Rotação rápida (10 em 10 minutos)

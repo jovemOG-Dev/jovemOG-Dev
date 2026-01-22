@@ -3,7 +3,7 @@ name: Update README Banner
 on:
   schedule:
     # Horários em UTC correspondentes a SP
-    - cron: "*/3 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:         # permite rodar manualmente
 
 permissions:

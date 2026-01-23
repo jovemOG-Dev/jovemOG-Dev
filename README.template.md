@@ -113,7 +113,7 @@
 </a>
 
 <div align="center">
-  <a href="./assets/quote.jpg">
+  <a href="./assets/quoteOG.png">
     <img src="./assets/jake.png" style="width:22%">
   </a>
 </div>

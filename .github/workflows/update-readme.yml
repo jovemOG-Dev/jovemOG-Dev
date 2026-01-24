@@ -1,0 +1,40 @@
+name: Update README Banner
+
+on:
+  schedule:
+    # Horários em UTC correspondentes a SP
+    - cron: "0 8 * * *"   # 05h SP
+    - cron: "0 16 * * *"  # 13h SP
+    - cron: "0 22 * * *"  # 19h SP
+  workflow_dispatch:         
+
+permissions:
+  contents: write
+
+jobs:
+  update-banner:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar README
+        run: |
+          node generate-readme.js
+          # Log para conferir qual banner foi selecionado
+          echo "Banner atualizado. Confira o README.md"
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: atualizar banner do README" || echo "Nenhuma alteração para commitar"
+          git push origin main --force

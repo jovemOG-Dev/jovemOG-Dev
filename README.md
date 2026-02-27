@@ -46,19 +46,10 @@
 <summary>🛠️ Databases & Tools</summary>
 <br>
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" alt="Git Badge">
-  </a><a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub Badge">
-  </a>
- 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" alt="MySQL Badge">
-  </a><a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB Badge">
-  </a>
-</p>
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </details>
 
 ## 📌 Pinned Repositories 

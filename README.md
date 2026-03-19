@@ -103,7 +103,14 @@
   </picture>
 </a>
 
-
+<a href="https://github.com/jovemOG-Dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=070c20&title_color=505c76&text_color=FFFFFF&icon_color=5b1d2c&border_radius=15&border_color=5b1d2c&card_width=400" />
+    <img align="center" style="margin:0.5rem" 
+         src="https://github-readme-stats-six-sigma-41.vercel.app/api?username=jovemOG-Dev&show_icons=true&bg_color=ECEFF1&title_color=162067&text_color=000000&icon_color=C62828&border_radius=15&border_color=C62828&card_width=400" />
+  </picture>
+</a>
 
 <div align="center">
   <a href="./assets/quoteOG.png">

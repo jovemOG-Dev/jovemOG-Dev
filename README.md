@@ -31,25 +31,44 @@
 <details>
 <summary>💻 Languages & Frameworks</summary>
 <br>
-  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0D76A8" alt="HTML5 Badge">
+  </a><a href="https://www.w3.org/css/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0D76A8" alt="CSS3 Badge">
+  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0D76A8" alt="JavaScript Badge">
+  </a><a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0D76A8" alt="TypeScript Badge">
+  </a><a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00" alt="Java Badge">
+  </a>
+
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=B52E31" alt="Angular Badge">
+  </a>
+</p>
 </details>
+
 
 <details>
 <summary>🛠️ Databases & Tools</summary>
 <br>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" alt="Git Badge">
+  </a><a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub Badge">
+  </a>
+ 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" alt="MySQL Badge">
+  </a><a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB Badge">
+  </a>
+</p>
 </details>
 
 ## 📌 Pinned Repositories 
@@ -80,7 +99,7 @@
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=3D002B&title_color=FF91D7&text_color=FFFFFF&border_radius=15&border_color=FF00CC&hide=Jupyter%20Notebook" />
     <img align="left" style="margin:0.5rem" 
-         src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FCE4EC&title_color=E91E63&text_color=000000&border_radius=15&border_color=E91E63&hide=Jupyter%20Notebook" />
+         src="https://github-readme-stats-six-sigma-41.vercel.app/api/top-langs/?username=jovemOG-Dev&layout=normal&bg_color=FCE4EC&title_color=E91E63&text_color=000000&border_radius=15&border_color=E91E63&hide=Jupyter%20Notebook,Shell" />
   </picture>
 </a>
 

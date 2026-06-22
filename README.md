@@ -16,7 +16,7 @@
 <h3>Welcome! <a href="./assets/quoteSnail.gif"> <img src="./assets/Hi2.gif" width="35"></h3> </a>
 
 <p>
-  An aspiring Full Stack Developer currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end, back-end, and cloud infrastructure to deliver impactful solutions.
+  I'm an aspiring Full Stack Developer currently focusing on mastering data structures, algorithms, and core web technologies. I thrive on collaborative projects where I can apply my knowledge in front-end, back-end, and cloud infrastructure to deliver impactful solutions.
 </p>
 
 <div align="left">

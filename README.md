@@ -1,4 +1,4 @@
-![OG banner](./assets/banner-night.gif)
+![OG banner](./assets/banner-day.gif)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">
@@ -60,12 +60,12 @@
 
 ## 📌 Pinned Repositories 
 
-<a href="https://github.com/STeam-PI/Roupas_Angular-PI">
+<a href="https://github.com/SenacOS/Roupas_Angular-PI">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&bg_color=1A2B34&title_color=00CCFF&text_color=c9cacc&icon_color=00CCFF&show_icons=true&border_radius=15&border_color=79E6D9"/>
+            srcset="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=SenacOS&repo=Roupas_Angular-PI&bg_color=1A2B34&title_color=00CCFF&text_color=c9cacc&icon_color=00CCFF&show_icons=true&border_radius=15&border_color=79E6D9"/>
     <img align="left" style="margin:1rem 0.5rem" 
-         src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=STeam-PI&repo=Roupas_Angular-PI&bg_color=E0F7FA&title_color=00BCD4&text_color=000000&icon_color=00BCD4&show_icons=true&border_radius=15&border_color=79E6D9"/>
+         src="https://github-readme-stats-six-sigma-41.vercel.app/api/pin/?username=SenacOS&repo=Roupas_Angular-PI&bg_color=E0F7FA&title_color=00BCD4&text_color=000000&icon_color=00BCD4&show_icons=true&border_radius=15&border_color=79E6D9"/>
   </picture>
 </a>
 

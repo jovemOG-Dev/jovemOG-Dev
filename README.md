@@ -1,4 +1,4 @@
-[![OG banner](./assets/banner-day.gif)](https://leetcode.com/u/jovemog-dev/)
+[![OG banner](./assets/banner-night.gif)](https://leetcode.com/u/jovemog-dev/)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">

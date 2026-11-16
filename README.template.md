@@ -1,4 +1,4 @@
-[![OG banner]({{BANNER_URL}})](https://leetcode.com/u/jovemog-dev/)
+[![OG banner]({{BANNER_URL}})](https://jovemog-dev.github.io/GSG-Portfolio/)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">

@@ -1,4 +1,4 @@
-[![OG banner](./assets/banner-night.gif)](https://jovemog-dev.github.io/GSG-Portfolio/)
+[![OG banner](./assets/banner-afternoon.gif)](https://jovemog-dev.github.io/GSG-Portfolio/)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-silva-gomes" target="blank">
